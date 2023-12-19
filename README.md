@@ -37,6 +37,7 @@ Develop mobile app versions for broader reach and ARMY convenience.
 Your suggestions and bug reports are invaluable! Share your thoughts through [preferred feedback channel, e.g., GitHub, email].
 
 ## Stats:
+as of 12/19/2023
 
 - 100 downloads
 - 5 Star rating
