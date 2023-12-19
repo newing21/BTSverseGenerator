@@ -44,7 +44,32 @@ Your suggestions and bug reports are invaluable! Share your thoughts through [pr
 
 - ![Downloads](downloads.png)
 
+
+
+
+
+
+
+
+
+
+
 - ![Users by product version](users_by_version.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - ![Impressions](impressions_additional_info.png)
 
