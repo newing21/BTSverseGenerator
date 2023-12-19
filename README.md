@@ -42,7 +42,7 @@ Your suggestions and bug reports are invaluable! Share your thoughts through [pr
 - 5 Star rating
 - 25 weekly users
 
-- ![Downloads](downloads.png)
+- ![Downloads](downloads1.png)
 - 
 
 
