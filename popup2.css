@@ -1,0 +1,99 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+}
+
+.popup {
+  position: relative;
+  width: 400px;
+  height: 350px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.popup {
+  position: relative;
+  width: 400px;
+  height: 300px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #c40000;
+  border: none;
+  border-radius: 30px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-bottom: 10px; /* Add margin-bottom to create space between button and icons */
+}
+
+#siteLinks {
+  display: flex;
+  flex-direction: row; /* Change flex-direction to row */
+  justify-content: center; /* Center the icons horizontally */
+  align-items: center; /* Center the icons vertically */
+  gap: 10px;
+}
+
+#siteLinks p {
+  margin: 0;
+}
+
+#siteLinks img {
+  width: 24px;
+  height: 24px;
+  display: block;
+  margin: 0 auto; /* Center the images horizontally */
+}
+
+
+
+.popup::before {
+  content: "";
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  background-image: url('cartoon logo.png'); /* add your BTS logo file name */
+  background-size: cover;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  z-index: 2;
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: bold;
+  color: #000;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 18px;
+  font-weight: normal;
+  color: #000;
+  text-align: center;
+  padding: 0 20px;
+}
+
+button:hover {
+  background-color: #b00000;
+}
