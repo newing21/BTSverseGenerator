@@ -41,3 +41,11 @@ Your suggestions and bug reports are invaluable! Share your thoughts through [pr
 - 100 downloads
 - 5 Star rating
 - 25 weekly users
+
+- ![Downloads](downloads.png)
+
+- ![Users by product version](Users by Version.png)
+
+- ![Impressions](Impressions additional info.png)
+
+
